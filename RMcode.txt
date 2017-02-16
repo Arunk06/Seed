@@ -4,5 +4,3 @@ main()
 {
 x=0
 }
-return;
-retun 1;
